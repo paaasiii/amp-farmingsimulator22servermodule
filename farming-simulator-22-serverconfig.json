@@ -1,0 +1,36 @@
+[
+    {
+        "DisplayName": "Username",
+        "Category": "Web Settings",
+        "Description": "Username for Web-Login",
+        "Keywords": "username",
+        "FieldName": "username",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "username",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "admin",
+        "Placeholder": "admin",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Passphrase",
+        "Category": "Web Settings",
+        "Description": "Passphrase for Web-Login",
+        "Keywords": "passphrase",
+        "FieldName": "passphrase",
+        "InputType": "password",
+        "IsFlagArgument": false,
+        "ParamFieldName": "passphrase",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
