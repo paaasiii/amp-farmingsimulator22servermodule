@@ -1,7 +1,7 @@
 Meta.DisplayName=Farming Simulator 22 Server
 Meta.Description=YOU NEED TO OWN FS22 ON THE STEAM ACCOUNT YOU USE!
 Meta.Arch=x86_64
-Meta.Author=Paaasiii - Made with AMP Config Generator
+Meta.Author=Paaasiii
 Meta.URL=https://store.steampowered.com/app/1248130/Farming_Simulator_22/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
