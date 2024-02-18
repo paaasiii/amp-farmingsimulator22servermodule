@@ -10,5 +10,14 @@
         "ForceDownloadPlatform": "Windows",
         "DeleteAfterExtract": true,
         "OneShot": false
+    },
+    {
+        "UpdateStageName":"Server Config Template Download",
+        "UpdateSourcePlatform":"All",
+        "UpdateSource":"FetchURL",
+        "UpdateSourceData":"https://github.com/paaasiii/amp-farmingsimulator22servermodule/main/AMP_server.xml",
+        "UpdateSourceArgs":"AMP_server.xml",
+        "UpdateSourceTarget":"{{$FullBaseDir}}",
+        "OverwriteExistingFiles":false
     }
 ]
