@@ -18,6 +18,7 @@
         "UpdateSourceData":"https://github.com/paaasiii/amp-farmingsimulator22servermodule/main/AMP_server.xml",
         "UpdateSourceArgs":"AMP_server.xml",
         "UpdateSourceTarget":"{{$FullBaseDir}}",
-        "OverwriteExistingFiles":false
+        "OverwriteExistingFiles":true,
+        "OneShot": false
     }
 ]
