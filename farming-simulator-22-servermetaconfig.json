@@ -3,6 +3,6 @@
         "ConfigFile": "dedicatedServer.xml",
         "AutoMap": true,
         "ConfigType": "template",
-        "ConfigFileTemplate":"./farming-simulator-22-server/1248130/AMP_server.xml"
+        "ConfigFileTemplate":"AMP_server.xml"
     }
 ]
